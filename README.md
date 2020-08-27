@@ -42,6 +42,8 @@ Ejemplo de API Spring Rest CRUD con Maven que usa Spring Data JPA para interactu
 ### Estructura del proyecto
 ![Latest Version on Packagist](https://github.com/freddytorres/wolox/blob/master/src/main/resources/imagenes/proyecto.png?raw=true)
 
+### Quality
+![Latest Version on Packagist](https://github.com/freddytorres/wolox/blob/master/src/main/resources/imagenes/quality.png?raw=true)
 
 ## Test
 La aplicación se encuentra publicada en HEROKU
